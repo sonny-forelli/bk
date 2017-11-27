@@ -1,8 +1,8 @@
 """
 1. read book text (txt,ansi)[path-input]
 2. split txt into words, make a list of words
-3. strip whitespaces and punctuation
-4. make a list of unique words
+3. strip spaces and punctuation
+4. create a list of unique words
 5. count word occurences, create dictionary: {word : counter}
 
 ...
